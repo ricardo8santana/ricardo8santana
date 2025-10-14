@@ -28,6 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <!--
 **ricardo8santana/ricardo8santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
